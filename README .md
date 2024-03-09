@@ -2,12 +2,6 @@
 
 A Python tool to perform deep learning experiments on various hyperspectral datasets.
 
-
-## Note
-The original code forked from GitLib project [Link](https://gitlab.inria.fr/naudeber/DeepHyperX).  
-And there is a repository on GitHub, which maybe is the official project code. [DeepHyperX](https://github.com/nshaud/DeepHyperX)  
-This repository will not update in the feature.If you need continuous research, please go to the project [DeepHyperX](https://github.com/nshaud/DeepHyperX)  
-
 ## Requirements
 
 This tool is compatible with Python 2.7 and Python 3.5+.
